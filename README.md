@@ -1,7 +1,6 @@
-# Chandan-7070
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3> 
-<img align="right" alt="DevOps" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw1_2eUOtcmpqaxTdJxnxNTQ&ust=1734723099482000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiF_sXJtIoDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-7070&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-7070" /> </p>
 
